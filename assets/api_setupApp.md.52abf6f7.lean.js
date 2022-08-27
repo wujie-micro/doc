@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as p}from"./app.a1fdbfe1.js";const i=JSON.parse('{"title":"setupApp","description":"","frontmatter":{},"headers":[],"relativePath":"api/setupApp.md"}'),l={name:"api/setupApp.md"},o=p("",4),e=[o];function c(t,r,D,y,C,A){return a(),n("div",null,e)}const d=s(l,[["render",c]]);export{i as __pageData,d as default};
