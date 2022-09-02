@@ -1,1 +1,0 @@
-import{_ as e,c as o,o as t,a}from"./app.f70b44b7.js";const f=JSON.parse('{"title":"destroyApp","description":"","frontmatter":{},"headers":[],"relativePath":"api/destroyApp.md"}'),d={name:"api/destroyApp.md"},p=a("",3),c=[p];function r(s,i,_,n,l,h){return t(),o("div",null,c)}const u=e(d,[["render",r]]);export{f as __pageData,u as default};
