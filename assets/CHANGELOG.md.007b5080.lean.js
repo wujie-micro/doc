@@ -1,1 +1,0 @@
-import{_ as e,o as r,c as t,a}from"./app.2baae86e.js";const g=JSON.parse('{"title":"Change Log","description":"","frontmatter":{},"headers":[{"level":3,"title":"Features","slug":"features"}],"relativePath":"CHANGELOG.md"}'),n={name:"CHANGELOG.md"},i=a("",5),o=[i];function c(s,h,l,f,u,_){return r(),t("div",null,o)}const b=e(n,[["render",c]]);export{g as __pageData,b as default};
