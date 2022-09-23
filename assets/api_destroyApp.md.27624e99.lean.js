@@ -1,0 +1,1 @@
+import{_ as e,o,c as t,a}from"./app.2d263659.js";const f=JSON.parse('{"title":"destroyApp","description":"","frontmatter":{},"headers":[],"relativePath":"api/destroyApp.md","lastUpdated":1661566413000}'),d={name:"api/destroyApp.md"},p=a("",3),c=[p];function r(s,i,_,n,l,h){return o(),t("div",null,c)}const u=e(d,[["render",r]]);export{f as __pageData,u as default};
