@@ -1,1 +1,0 @@
-import{_ as s,o as n,c as a,a as p}from"./app.7f484287.js";const i=JSON.parse('{"title":"setupApp","description":"","frontmatter":{},"headers":[],"relativePath":"api/setupApp.md","lastUpdated":1664353927000}'),l={name:"api/setupApp.md"},o=p("",4),e=[o];function t(c,r,y,D,F,C){return n(),a("div",null,e)}const B=s(l,[["render",t]]);export{i as __pageData,B as default};
