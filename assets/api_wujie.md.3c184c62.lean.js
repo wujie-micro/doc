@@ -1,0 +1,1 @@
+import{_ as o,o as e,c as a,Q as s}from"./chunks/framework.fe3fd81d.js";const y=JSON.parse('{"title":"$wujie","description":"","frontmatter":{},"headers":[],"relativePath":"api/wujie.md","lastUpdated":1665316282000}'),n={name:"api/wujie.md"},l=s("",13),t=[l];function c(p,i,r,d,u,h){return e(),a("div",null,t)}const F=o(n,[["render",c]]);export{y as __pageData,F as default};
