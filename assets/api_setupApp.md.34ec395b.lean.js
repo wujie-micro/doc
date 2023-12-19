@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,Q as l}from"./chunks/framework.02fbee43.js";const E=JSON.parse('{"title":"setupApp","description":"","frontmatter":{},"headers":[],"relativePath":"api/setupApp.md","lastUpdated":1670299876000}'),p={name:"api/setupApp.md"},o=l("",4),t=[o];function e(c,r,y,B,D,F){return n(),a("div",null,t)}const A=s(p,[["render",e]]);export{E as __pageData,A as default};

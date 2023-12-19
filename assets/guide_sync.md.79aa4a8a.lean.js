@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,Q as p}from"./chunks/framework.02fbee43.js";const u=JSON.parse('{"title":"路由同步","description":"","frontmatter":{},"headers":[],"relativePath":"guide/sync.md","lastUpdated":1698130958000}'),l={name:"guide/sync.md"},o=p("",13),e=[o];function t(c,r,F,D,y,d){return a(),n("div",null,e)}const h=s(l,[["render",t]]);export{u as __pageData,h as default};

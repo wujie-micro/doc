@@ -1,1 +1,0 @@
-import{_ as s,o as l,c as n,Q as a}from"./chunks/framework.fe3fd81d.js";const A=JSON.parse('{"title":"bus","description":"","frontmatter":{},"headers":[],"relativePath":"api/bus.md","lastUpdated":1661566413000}'),o={name:"api/bus.md"},p=a("",19),t=[p];function e(c,r,i,y,F,D){return l(),n("div",null,t)}const d=s(o,[["render",e]]);export{A as __pageData,d as default};
