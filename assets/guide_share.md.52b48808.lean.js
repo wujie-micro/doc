@@ -1,1 +1,0 @@
-import{_ as s,o as a,c as n,Q as l}from"./chunks/framework.02fbee43.js";const B=JSON.parse('{"title":"应用共享","description":"","frontmatter":{},"headers":[],"relativePath":"guide/share.md","lastUpdated":1679473759000}'),o={name:"guide/share.md"},p=l("",19),e=[p];function t(c,r,D,F,y,i){return a(),n("div",null,e)}const u=s(o,[["render",t]]);export{B as __pageData,u as default};
