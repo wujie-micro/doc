@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as t,Q as r}from"./chunks/framework.02fbee43.js";const u=JSON.parse('{"title":"预加载","description":"","frontmatter":{},"headers":[],"relativePath":"guide/preload.md","lastUpdated":1661566413000}'),o={name:"guide/preload.md"},c=r("",8),p=[c];function d(l,i,s,h,n,_){return a(),t("div",null,p)}const m=e(o,[["render",d]]);export{u as __pageData,m as default};

@@ -1,0 +1,1 @@
+import{_ as s,o as l,c as n,Q as a}from"./chunks/framework.02fbee43.js";const d=JSON.parse('{"title":"bus","description":"","frontmatter":{},"headers":[],"relativePath":"api/bus.md","lastUpdated":1661566413000}'),o={name:"api/bus.md"},p=a("",19),t=[p];function e(c,r,i,y,B,F){return l(),n("div",null,t)}const u=s(o,[["render",e]]);export{d as __pageData,u as default};
