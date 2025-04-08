@@ -1,1 +1,0 @@
-import{_ as s,o as a,c as n,Q as l}from"./chunks/framework.02fbee43.js";const u=JSON.parse('{"title":"路由跳转","description":"","frontmatter":{},"headers":[],"relativePath":"guide/jump.md","lastUpdated":1732418014000}'),p={name:"guide/jump.md"},o=l("",32),t=[o];function e(c,r,F,D,y,i){return a(),n("div",null,t)}const A=s(p,[["render",e]]);export{u as __pageData,A as default};
